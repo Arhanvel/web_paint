@@ -32,6 +32,44 @@ var setGlColor = function(){
 	glColor = '#' + document.getElementById('color').value;
 }
 
+var setRed = function(){
+    glColor = '#f00';
+}
+var setGreen = function(){
+    glColor = '#0f0';
+}
+var setBlue = function(){
+    glColor = '#00f';
+}
+var setWhite = function(){
+    glColor = '#fff';
+}
+var setBlack = function(){
+    glColor = '#000';
+}
+var setLGreen = function(){
+    glColor = '#73e673';
+}
+var setDGreen = function(){
+    glColor = '#3c763d';
+}
+var setOrange = function(){
+    glColor = '#ff9600';
+}
+var setYellow = function(){
+    glColor = '#ff0';
+}
+var setLblue = function(){
+    glColor = '#5bc0de';
+}
+var setViolet = function(){
+    glColor = '#ff00fa';
+}
+var setBrown = function(){
+    glColor = '#8a6d3b';
+}
+
+
 window.onload = function(){
 	paper.setup("PAINT_HERE");
 	glColor = 'red';

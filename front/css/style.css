@@ -54,3 +54,48 @@ body{
         border-width:1px;
         box-sizing: border-box;
     }
+.colorbox {
+    margin-top: 10px;
+}    
+.button.btn {
+    height: 25px;
+}    
+.btn-red {
+        background-color: #f00; 
+}    
+.btn-blue {
+        background-color: #00f; 
+}    
+.btn-green {
+        background-color: #0f0; 
+}    
+.button.btn.btn-white {
+        background-color: #fff; 
+        border: 1px solid #00f;        
+}    
+.btn-black {
+        background-color: #000; 
+}    
+.btn-LGreen {
+        background-color: #73e673; 
+}  
+.btn-DGreen {
+        background-color: #3c763d; 
+}    
+.btn-orange {
+        background-color: #ff9600; 
+} 
+.btn-yellow {
+        background-color: #ff0; 
+} 
+.btn-Lblue {
+        background-color: #5bc0de; 
+} 
+.btn-Violet {
+        background-color: #ff00fa; 
+} 
+.btn-Brown {
+        background-color: #8a6d3b; 
+} 
+
+
